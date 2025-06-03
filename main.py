@@ -1,1 +1,1 @@
-print("Lista zakupów")
+print("Lista zakupow. Version 2")

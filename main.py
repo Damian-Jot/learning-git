@@ -1,1 +1,1 @@
-print("Lista zakupow. Version 2")
+print("Lista zakupow. Wersja 3, wersja 2 była błędna! ")
